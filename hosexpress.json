@@ -1,0 +1,21 @@
+[
+    "f43_epi",
+    "hos_doctor_diagnosis",
+    "hos_doctor_diagtext",
+    "hos_doctor_procedure",
+    "hos_doctor_treatment",
+    "hos_drug_unitday",
+    "hos_drug_unitday_order",
+    "hos_drug_unitday_treatment",
+    "hos_lab",
+    "hos_lab_result",
+    "hos_pt",
+    "hos_pt_drug_allergy",
+    "hos_pt_visit",
+    "hos_pt_visit_pttype_nhso",
+    "hos_pt_visit_vitalsign",
+    "idx",
+    "iop",
+    "ipd",
+    "pat"
+]
