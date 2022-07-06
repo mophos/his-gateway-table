@@ -1,0 +1,8 @@
+{
+    "schema": "icthos",
+    "version": "0.0.2",
+    "tables": [
+        "person",
+        "patient"
+    ]
+}

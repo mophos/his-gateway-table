@@ -1,0 +1,21 @@
+{
+    "schema": "mbase",
+    "version": "0.0.2",
+    "tables": [
+        "appoints",
+        "cid_hn",
+        "drugs",
+        "drugs_tho",
+        "icd10new",
+        "icd9cm",
+        "lab_lists",
+        "lab_requests",
+        "main_inscls",
+        "opd_diagnosis",
+        "opd_operations",
+        "opd_visits",
+        "population",
+        "refers",
+        "service_units"
+    ]
+}
