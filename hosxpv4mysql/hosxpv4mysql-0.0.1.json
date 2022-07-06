@@ -1,6 +1,6 @@
 {
-    "schema": "hosxpv4pgsql",
-    "version": "0.0.2",
+    "schema": "hosxpv4mysql",
+    "version": "0.0.1",
     "tables": [
         "accident_person_type",
         "accident_place_type",

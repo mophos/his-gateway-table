@@ -1,6 +1,6 @@
 {
-    "schema": "hosxpv3",
-    "version": "0.0.2",
+    "schema": "hosxppcuxe",
+    "version": "1.0.0",
     "tables": [
         "accident_person_type",
         "accident_place_type",
