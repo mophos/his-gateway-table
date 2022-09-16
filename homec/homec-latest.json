@@ -1,0 +1,7 @@
+{
+    "schema": "homec",
+    "version": "1.0.0",
+    "tables": [
+        "patient"
+    ]
+}
